@@ -43,7 +43,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.navasmdc:MaterialDesign:1.5@aar'
+    compile 'com.github.anasanasanas123:MaterialDesignLibrary:1.7'
 }
 ```
 
